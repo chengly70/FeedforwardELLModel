@@ -6,6 +6,8 @@ This directory contains Matlab and C program files to implement the computationa
 
 Citation: Ly & Marsat (2017). Variable synaptic strengths controls the firing rate distribution in feedforward neural networks.  XXX
 
+Experimental Data: Sup/Int pyramidal cell firing rates (time- and trial-average), as described in Methods (Electrophysiology) in the paper, are in the file Data_LS_SupInt_FRates.xlsx
+
 Stored .mat files to generate the same plots in the paper:
 1) The mat file storedPerm.mat is called for each run; this is a random permutation of Ne=1000 that is used in generating correlated q and Threshold vectors via the function crtW_corr.m 
 2) The mat file conRnd_A.mat is the network configuration used in the paper, with Nei=200 in the feedforward population and Ne=1000 in the target superficial pyramidal cells.  The connectivity matrices are saved here, with fixed in-degree that are randomly generated.
