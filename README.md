@@ -4,7 +4,8 @@ Model of the ELL in the weakly electric fish.
 
 This directory contains Matlab and C program files to implement the computational model in the following paper.
 
-Citation: Ly & Marsat (2018). Variable synaptic strengths controls the firing rate distribution in feedforward neural networks.  Journal of Computational Neuroscience, xxx
+Citation: Ly & Marsat (2018). Variable synaptic strengths controls the firing rate distribution in feedforward neural networks.  Journal of Computational Neuroscience, Vol. 44: pp. 75--95.  
+DOI: 10.1007/s10827-017-0670-8
 
 Experimental Data: Sup/Int pyramidal cell firing rates (time- and trial-average), as described in Methods (Electrophysiology) in the paper, are in the file Data_LS_SupInt_FRates.xlsx
 
